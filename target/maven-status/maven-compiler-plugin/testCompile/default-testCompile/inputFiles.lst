@@ -1,0 +1,6 @@
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/api/HotelBookingEndToEndApiTest.java
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/application/BookingConcurrencyAndPaymentIdempotencyTest.java
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/application/DemoProfileAndEdgeCasesTest.java
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/application/PricingAndCancellationPolicyTest.java
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/application/PropertyOnboardingAndDiscoveryTest.java
+/Users/arunav.dey/Downloads/HotelBookingManagement/src/test/java/com/hotelbooking/domain/DomainModelAndStateTransitionTest.java

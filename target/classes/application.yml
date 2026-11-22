@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: hotel-booking-platform
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    default-property-inclusion: non_null
+
+server:
+  port: 8080
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: method
+    tags-sorter: alpha
+
+booking:
+  pricing:
+    mode: dynamic
+    weekend-multiplier: 1.20
+    long-stay-min-nights: 7
+    long-stay-discount-rate: 0.10
+  cancellation:
+    default-policy: MODERATE_TIERED
+    check-in-hour: 14
